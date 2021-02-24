@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Britt.
-- 👀 I love all things Python and React. (In that order!) 
+- 👀 I love all things Python and React.
 - 🌱 I’m currently working on my SalesForce Admin and Developer Certs. 
 - 📫 Wanna chat? Email me at brittbannister@protonmail.com
 

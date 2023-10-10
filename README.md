@@ -1,9 +1,7 @@
 ## Introduction
-- 👋 Hi, I’m Britt.
-- 👀 I love all things Python and React.
--  🎸 Fun Fact: I play guitar. Music is a huge part of who I am.
+- 👋 Hi.
 
-I have a passion for learning and bringing incredible ideas to life, a dedication to constantly developing and challenging myself, and a relentless work ethic. Known to create and maintain professional relationships and a loyal customer base. I’m a full-stack developer with a primary focus on Python and React.
+
 <hr/>
 
 ## Let's Connect:
